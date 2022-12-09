@@ -33,9 +33,30 @@ const TEACHING = ({ dark }) => {
                 <li>
                   {`A multi-institutional study of peer instruction in introductory computing`}
                 </li>
+                <li>
+                  {`Computer science concept inventories: past and future Computer Science Education`}
+                </li>
+                <li>
+                  {`Active Learning in Lecture with Peer Instruction`}
+                </li>
+                <li>
+                  {`Adapting to Pervasive Computing, and Making Great Pedagogy Pervasive`}
+                </li>
+                <li>
+                  {`Can peer instruction be effective in upper-division computer science courses`}
+                </li>
+                <li>
+                  {`On the User–Scheduler Dialogue: Studies of User-Provided Runtime Estimates and Utility Functions `}
+                </li>
               </div>
             </div>
           </div>
+        </div>
+        <div className="brush_1 wow fadeInLeft" data-wow-duration="1s">
+          <img src="img/brushes/about/1.png" alt="image" />
+        </div>
+        <div className="brush_2 wow fadeInRight" data-wow-duration="1s">
+          <img src="img/brushes/about/2.png" alt="image" />
         </div>
       </div>
     </div>
