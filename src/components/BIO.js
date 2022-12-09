@@ -50,6 +50,17 @@ const BIO = ({ dark }) => {
                   {`Professor of the Year, Stanford Society of Women Engineers (2015)`}
                 </li>
               </div>
+              <div className="title wow fadeInUp" data-wow-duration="1s">
+                <span>{`Professional Education`}</span>
+              </div>
+              <div className="text wow fadeInUp" data-wow-duration="1s">
+              <li>
+                  {`Ph.D., University of California, San Diego, Computer Science (2009)`}
+                </li>
+                <li>
+                  {`B.S., University of California, San Diego, Computer Science (2001)`}
+                </li>
+              </div>
             </div>
           </div>
         </div>

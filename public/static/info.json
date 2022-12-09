@@ -1,8 +1,7 @@
 {
-  "name": "James Smith",
-  "address": "New York",
-  "bio": "I'm creative designer based in New York, and I'm very passionate and dedicated to my work.",
-  "mainSkill": "Creative Designer",
+  "name": "Cynthia Lee",
+  "address": "Stanford",
+  "mainSkill": "SENIOR LECTURER OF COMPUTER SCIENCE",
   "img": "/img/slider/avatar.png",
   "skills": [
     {
@@ -31,8 +30,9 @@
     { "name": "behance", "icon": "icon-behance", "url": "#" }
   ],
   "contact": {
-    "address": "20, Somewhere in world",
-    "email": "hello@dizme.com",
-    "phn": "+123 456 7890"
+    "address": "University - Academic staff",
+    "address1": "Chief Communications Officer, School of Engineering",
+    "email": "cbl@stanford.edu",
+    "phn": "(650) 497-3070 (office)"
   }
 }
