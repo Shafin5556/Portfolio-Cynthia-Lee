@@ -5,9 +5,6 @@ const Header = ({ logo }) => {
         <div className="inner">
           <div className="logo">
             <a href="#">
-              {logo && (
-                <img src={logo ? logo : "img/logo/logo.png"} alt="image" />
-              )}
             </a>
           </div>
           <div className="menu">
@@ -16,24 +13,19 @@ const Header = ({ logo }) => {
                 <a href="#home">Home</a>
               </li>
               <li>
-                <a href="#about">About</a>
+                <a href="#BIO">BIO</a>
               </li>
               <li>
-                <a href="#portfolio">Portfolio</a>
+                <a href="#RESEARCH">RESEARCH</a>
               </li>
               <li>
-                <a href="#service">Service</a>
+                <a href="#TEACHING">TEACHING</a>
               </li>
               <li>
-                <a href="#blog">Blog</a>
+                <a href="#PUBLICATIONS">PUBLICATIONS</a>
               </li>
               <li>
-                <a href="#contact">Contact</a>
-              </li>
-              <li className="download_cv">
-                <a href="img/cv/1.jpg" download="">
-                  <span>Download CV</span>
-                </a>
+                <a href="#CONTACT">Contact</a>
               </li>
             </ul>
           </div>

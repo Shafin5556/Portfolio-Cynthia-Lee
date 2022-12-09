@@ -61,19 +61,6 @@ const Home = ({ dark }) => {
                   src={data && data.img ? data.img : "/img/slider/avatar.png"}
                   alt="image"
                 />
-                {data &&
-                  data.skills &&
-                  data.skills.map(
-                    (skill, i) =>
-                      skill.icon && (
-                        <span
-                          key={i}
-                          className={`skills ${skill.name} anim_moveBottom`}
-                        >
-                          {parse(skill.icon)}
-                        </span>
-                      )
-                  )}
               </div>
             </div>
           </div>
